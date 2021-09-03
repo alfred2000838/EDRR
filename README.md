@@ -14,7 +14,7 @@ CPU. While processes with more than the DTQ will be requeue at the end of the re
 all processes less than the DTQ have completed, processes with more than that will then be assign
 to the CPU. 
 
-# Proof of Code - Paper’s Test Cases 
+# Paper’s Test Cases 
 
 Example 1:
 
@@ -25,7 +25,7 @@ Example 2:
 ![image](https://user-images.githubusercontent.com/74093833/131978809-c6598859-b38a-4af8-9cd1-af6653b8bff2.png)
 
 
-# Proof of Code - Additional Test Cases
+# Additional Test Cases
 
 Additional 1: Incurring additional context switch
 
