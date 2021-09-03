@@ -1,7 +1,7 @@
 # EDRR
 Implementation of Efficient Dynamic Round Robin (EDRR) Algorithm for CPU scheduling
 
-Implement in accordance to research paper by Muhammad Umar Farooq, Aamna Shakoor, Abu Bakar Siddiqu, University of Engineering and Technology, Lahore. Reasearh paper available here: https://umar17.github.io/papers/3.pdf
+Implement in accordance to research paper by Muhammad Umar Farooq, Aamna Shakoor, Abu Bakar Siddiqu, University of Engineering and Technology, Lahore. Reasearch paper available here: https://umar17.github.io/papers/3.pdf
 
 # How it works
 This modified Round Robin algorithm uses dynamic time quantum. It applies a practical approach by
